@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:food_delivery/app/modules/customer/auth/auth_controller.dart';
+import 'package:food_delivery/app/modules/auth/auth_controller.dart';
 import 'package:food_delivery/app/modules/customer/user/product_controller.dart';
 import 'package:shelf/shelf.dart';
 import 'package:shelf/shelf_io.dart';
